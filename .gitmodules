@@ -1,0 +1,3 @@
+[submodule "Shared/module"]
+	path = Shared/module
+	url = https://github.com/JustGodWork/lua_promise.git
